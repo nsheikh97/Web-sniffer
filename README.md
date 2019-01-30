@@ -32,6 +32,10 @@ http://www.google.com
 http://irl.cs.tamu.edu
 
 ```
+```sh
+hw1p2.exe 1 test.txt
+
+```
 ### Example Output:
 
 ```sh
