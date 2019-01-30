@@ -6,9 +6,9 @@ given a single URL or text file of URLS, crawls page and checks for links on a g
 2. Connect to socket on server
 3. Send HEAD Request for /robots.txt
 4. Load data
-5. Verify Header  
+5. Verify Header  ~
 *If host does not contain robots.txt, continue...*
-6. Repeat 1-5 with GET request (Since HTTP 1.0, reconnection to socket is mandatory)  
+6. Repeat 1-5 with GET request (Since HTTP 1.0, reconnection to socket is mandatory)  ~
 *If host returns with 2xx status code, continue...*
 7. Parse HTML and return # of links
 
