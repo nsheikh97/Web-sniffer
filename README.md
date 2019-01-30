@@ -26,6 +26,7 @@ hw1p2.exe <# of threads> <text file>
 ```
 ### Example input:
 
+**test.txt**
 ```sh
 http://www.google.com
 http://irl.cs.tamu.edu
