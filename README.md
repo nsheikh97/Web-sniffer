@@ -13,3 +13,13 @@ h1wp2.exe <URL>
 ```sh
 h1wp2.exe <# of threads> <text file>
 ```
+
+## Version:
+
+1.0 // Currently only support 1 thread
+
+
+## Experience
++ Using WinSock2
++ Performing DNS lookup
++ Sending GET and HEAD HTTP requests
