@@ -17,12 +17,12 @@ given a single URL or text file of URLS, crawls page and checks for links on a g
 ### Windows:
 
 ```sh
-hw1p2.exe <URL>
+./hw1p2.exe <URL>
 ```
 *or*
 
 ```sh
-hw1p2.exe <# of threads> <text file>
+./hw1p2.exe <# of threads> <text file>
 ```
 ### Example input:
 
@@ -32,8 +32,9 @@ http://www.google.com
 http://irl.cs.tamu.edu
 
 ```
+**Shell**
 ```sh
-hw1p2.exe 1 test.txt
+./hw1p2.exe 1 test.txt
 
 ```
 ### Example Output:
