@@ -16,7 +16,7 @@ h1wp2.exe <# of threads> <text file>
 
 ## Version:
 
-1.0 // Currently only support 1 thread
+**1.0** // Currently only support 1 thread
 
 
 ## Experience
