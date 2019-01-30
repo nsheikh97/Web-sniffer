@@ -24,6 +24,13 @@ hw1p2.exe <URL>
 ```sh
 hw1p2.exe <# of threads> <text file>
 ```
+### Example input:
+
+```sh
+http://www.google.com
+http://irl.cs.tamu.edu
+
+```
 ### Example Output:
 
 ```sh
