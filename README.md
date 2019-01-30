@@ -60,7 +60,7 @@ URL: http://irl.cs.tamu.edu
 
 ## Version:
 
-**1.0** // Currently only support 1 thread
+**1.0** // Currently only supports 1 thread
 
 ## Experience
 + Using WinSock2
